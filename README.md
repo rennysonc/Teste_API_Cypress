@@ -2,9 +2,6 @@
 
 ![Build status](https://github.com/adriastephanie/cypress-test/actions/workflows/main.yml/badge.svg)
 
-## Project status
-
-
 ## 🛠 Tech
 - [Cypress](https://www.cypress.io/)
 
